@@ -1,0 +1,42 @@
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\Amonic.exe.config
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\Amonic.exe
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\Amonic.pdb
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\Guna.UI2.dll
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.NoLogout.resources
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.Properties.Resources.resources
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.Login.resources
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.csproj.CopyComplete
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.exe
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.pdb
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.MineAdmin.resources
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.Add_user.resources
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.EditRole.resources
+C:\Users\1\Desktop\Колледж\4 курс\Внедрение\Amonic\Amonic\obj\Debug\Amonic.MineUser.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\Amonic.exe.config
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\Amonic.exe
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\Amonic.pdb
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\EntityFramework.dll
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\Guna.UI2.dll
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\EntityFramework.xml
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.csproj.AssemblyReference.cache
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.Add_user.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.EditRole.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.MineAdmin.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.MineUser.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.NoLogout.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.Properties.Resources.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.Login.resources
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.csproj.GenerateResource.cache
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.csproj.CoreCompileInputs.cache
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.csproj.CopyComplete
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.exe
+C:\Users\Grigori\Desktop\Амоник\Amonic\Amonic\obj\Debug\Amonic.pdb
